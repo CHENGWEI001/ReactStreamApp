@@ -1,0 +1,5 @@
+401480328438-b3mr90rb5lkh6ck93dbhf69ofsab9hc4.apps.googleusercontent.com
+
+    //"start": "json-server -p 8081 -w db.json"
+
+     "start": "json-server -p 8081 -w db.json --middlewares ./cors.js"
